@@ -1,0 +1,3 @@
+In progress...
+
+First setting the stage by creating a simple web api.
